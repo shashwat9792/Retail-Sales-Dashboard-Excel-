@@ -28,7 +28,7 @@ The goal was to create an **interactive sales dashboard** that highlights KPIs, 
 ---
 
 ## 📈 Dashboard Preview  
-*(Insert screenshot of your Excel dashboard here once it’s ready)*  
+
 
 ---
 
