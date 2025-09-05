@@ -28,11 +28,11 @@ The goal was to create an **interactive sales dashboard** that highlights KPIs, 
 ---
 
 ## 📈 Dashboard Preview  
-
+- <a href ="https://github.com/shashwat9792/Retail-Sales-Dashboard-Excel-/blob/main/Annual%20%20report%202022%20Vrinda%20Store%20.jpg">
 
 ---
 
 ## 🚀 How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/retail-sales-dashboard.git
+   git clone https://github.com/shashwat9792/retail-sales-dashboard.git
